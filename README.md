@@ -1,3 +1,3 @@
 # cousera-test
 Coursera test repository
-theme : cayman
+theme: cayman
